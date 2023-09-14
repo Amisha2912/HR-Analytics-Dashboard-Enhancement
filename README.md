@@ -9,21 +9,21 @@ This project focuses on performing comprehensive data cleaning and analysis usin
 5) Result Export: Save query results as CSV files within MySQL, enabling data preservation and future analysis or visualization tasks. These CSV files serve as valuable resources for creating reports and visualizations in tools like PowerBI.
 
 # Summary of Key Findings:
-> Male employees dominate the workforce.
-> Age range: 20 to 57 years, with most employees aged 25-34.
-> Headquarters-based employment is more prevalent.
-> Terminated employees average around 8 years of employment.
-> Gender distribution across departments is balanced, with a male edge.
-> Highest turnover in Marketing, lowest in Research & Development.
-> A significant number of employees are from Ohio.
-> Net employee count has grown over the years.  
+1) Male employees dominate the workforce.
+2) Age range: 20 to 57 years, with most employees aged 25-34.
+3) Headquarters-based employment is more prevalent.
+4) Terminated employees average around 8 years of employment.
+5) Gender distribution across departments is balanced, with a male edge.
+6) Highest turnover in Marketing, lowest in Research & Development.
+7) A significant number of employees are from Ohio.
+8) Net employee count has grown over the years.  
 
 # Skills Acquired:
-> SQL Database Management (MySQL)
-> Data Cleaning and Transformation
-> Date Handling and Conversion
-> Subquery Implementation
-> Data Filtering and Selection
-> Result Export to CSV
+1) SQL Database Management (MySQL)
+2) Data Cleaning and Transformation
+3) Date Handling and Conversion
+4) Subquery Implementation
+5) Data Filtering and Selection
+6) Result Export to CSV
 
 
